@@ -1,0 +1,12 @@
+# CodePet Agent Server - LLM Provider Config
+# DeepSeek (same API key as pet)
+providers:
+  - name: deepseek
+    protocol: openai-compat
+    base_url: https://api.deepseek.com/v1
+    model: deepseek-chat
+    api_key: "sk-be52e0d0008545dab004208fb5a99ec1"
+
+server:
+  host: "127.0.0.1"
+  port: 9876

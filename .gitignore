@@ -1,0 +1,24 @@
+# Interview doc
+项目面试指南.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+*.log
+.pet_install.log
+.pet_memory/
+
+# IDE
+.vscode/
+.idea/
+
+# Build artifacts
+pet-desktop/pet/obj/
+pet-desktop/pet/bin/
+pet-desktop/publish/
+
+# Temp
+*.tmp
+.claude/
