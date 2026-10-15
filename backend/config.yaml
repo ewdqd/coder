@@ -5,7 +5,7 @@ providers:
     protocol: openai-compat
     base_url: https://api.deepseek.com/v1
     model: deepseek-chat
-    api_key: "sk-be52e0d0008545dab004208fb5a99ec1"
+    api_key: ""
 
 server:
   host: "127.0.0.1"
